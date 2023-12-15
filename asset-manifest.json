@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.156f6010.css",
+    "main.js": "/static/js/main.5cfa0314.js",
+    "static/media/image.png": "/static/media/image.a961ee41b2b4ff276914.png",
+    "static/media/nayebcv2023.pdf": "/static/media/nayebcv2023.937cc6414d61e1f7fb7d.pdf",
+    "static/media/machinelearning.png": "/static/media/machinelearning.1084c4f93cccbfc7522d.png",
+    "static/media/cybersecurity.png": "/static/media/cybersecurity.6e2d400d3410fead9e3f.png",
+    "static/media/linkedin.png": "/static/media/linkedin.df3f373c358bcfdd92bb.png",
+    "index.html": "/index.html",
+    "main.156f6010.css.map": "/static/css/main.156f6010.css.map",
+    "main.5cfa0314.js.map": "/static/js/main.5cfa0314.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156f6010.css",
+    "static/js/main.5cfa0314.js"
+  ]
+}
